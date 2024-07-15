@@ -1,10 +1,33 @@
-h1
+body
 {
-    color: green;
-    padding-left: 800px;
-    font-size: 150;
+    background-color: #E0E0E2;
+
 }
-a:hover 
+h1 
 {
-    color: orange;
+    color: #721817;
+}
+h2
+{
+    color: #721817;
+}
+.center-text
+{
+    text-align: center;
+}
+#logo 
+{
+    margin: auto;
+    display:block;
+
+}
+h2 > span
+{
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+#copyright
+{
+    padding-top: 12px;
+    font-size: 0.75em;
 }
